@@ -1,0 +1,29 @@
+cname   profit
+aa & bb.  -10000
+a12 .   10000
+ccc12  -5000
+KP Store   15000
+D3 & V3   20000
+
+
+df1={
+    'eid':[1,2,3,4]
+    'ename':['Amal','Abin','Arjun','Niranjan'],
+    'stipend':[60000,70000,55000,40000]
+}
+df2={
+    'eid':[1,2,3,4]
+    'Position':['employee','employee','senior_employee','intern']
+}
+
+   eid   ename  stipend
+0    1     Sid    10000
+1    2  Ramesh    10000
+2    3     Ron     5000
+3    4   Harry    15000
+
+   eid         position
+0    1         employee
+1    2         employee
+2    3           intern
+3    4  senior_employee
